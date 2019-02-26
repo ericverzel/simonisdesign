@@ -5282,6 +5282,10 @@ blockquote {
   .btn.hero4-left-button {
     margin-right: 0px;
   }
+  .text-14.text-14-60.white-text {
+    display: block;
+    margin-top: 15px;
+  }
   .btn-big {
     display: block;
     padding: 14px 25px;
@@ -5292,6 +5296,9 @@ blockquote {
   }
   .btn-big.hero6-left-btn {
     margin-right: 0px;
+  }
+  .text-16.text-16-60 {
+    padding-left: 0px;
   }
   .page-name {
     padding-top: 15px;
@@ -5409,6 +5416,12 @@ blockquote {
     height: 54px;
     padding-top: 14px;
     padding-bottom: 14px;
+  }
+  .form3-input.form3-input-dark {
+    color: #fff;
+  }
+  .form3-input.form3-input-dark.message-input {
+    color: #fafafa;
   }
   .products1-actions-wrap {
     -webkit-box-orient: vertical;
